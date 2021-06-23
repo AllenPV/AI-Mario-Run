@@ -23,3 +23,14 @@ height:3;
     display: inline-block;
     width: 45%;
 }
+Video{
+   background: url("game_console.png");
+   background-size: cover;
+   background-position: center;
+   padding: 25px;
+}
+#footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
